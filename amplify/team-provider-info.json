@@ -1,0 +1,27 @@
+{
+    "local": {
+        "awscloudformation": {
+            "AuthRoleName": "amplifyauth-local-20190804134411-authRole",
+            "UnauthRoleArn": "arn:aws:iam::808693777291:role/amplifyauth-local-20190804134411-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::808693777291:role/amplifyauth-local-20190804134411-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplifyauth-local-20190804134411-deployment",
+            "UnauthRoleName": "amplifyauth-local-20190804134411-unauthRole",
+            "StackName": "amplifyauth-local-20190804134411",
+            "StackId": "arn:aws:cloudformation:us-east-1:808693777291:stack/amplifyauth-local-20190804134411/78031160-b6df-11e9-b897-0e1ffe4de6a4"
+        },
+        "categories": {
+            "function": {
+                "amplifyauth4be2caa9DefineAuthChallenge": {},
+                "amplifyauth4be2caa9CreateAuthChallenge": {}
+            },
+            "auth": {
+                "amplifyauth59d75a78": {
+                    "googleAppIdUserPool": "110761433992-og3ubve66jee1qirp60m9q47lt8dbfso.apps.googleusercontent.com",
+                    "googleAppSecretUserPool": "7WSl7ZQ8mRbpl82r317Z6mXj",
+                    "hostedUIProviderCreds": "[]"
+                }
+            }
+        }
+    }
+}
